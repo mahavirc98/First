@@ -1,3 +1,7 @@
 Hello World
 
+<<<<<<< HEAD
 With major changes done
+=======
+With major changes
+>>>>>>> 3a0e288 (File1: Commit for idea minor to major)

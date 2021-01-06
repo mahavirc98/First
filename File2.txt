@@ -1,2 +1,2 @@
-Welcome to gitdemo
+Welcome to git demo
 mahavir chordiya
